@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## 🔭 About Me
 - Based in **Portugal** 🇵🇹
-- Bachelor in **Software and App Development **
+- Bachelor in **Software and App Development**
 - Passionate about **programming**, **mechanics**, and **tech innovation**.
 - Always exploring new ideas for **startups and tech solutions**.
 
