@@ -7,8 +7,8 @@ Welcome to my GitHub profile!
 - Bachelor in **Software and App Development**
   
 ## 💡 Skills & Tools
-- **Languages:** C#, Python, JavaScript
-- **Frameworks & Tools:** .NET MAUI, PySpark, MongoDB, WebDriverIO
+- **Languages:** C#, Python, JavaScript, Dart
+- **Frameworks & Tools:** React, Node.js, Python, MongoDB, Docker, GitHub
   
 ## 📫 How to Reach Me
 - Email: `tiago27almeida@hotmail.com`
