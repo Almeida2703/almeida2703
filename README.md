@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
   
 ## 💡 Skills & Tools
 - **Languages:** C#, Python, JavaScript, Dart
-- **Frameworks & Tools:** React, Node.js, Python, MongoDB, Docker, GitHub
+- **Frameworks & Tools:** Node.js, Python, MongoDB, Docker, GitHub
   
 ## 📫 How to Reach Me
 - Email: `tiago27almeida@hotmail.com`
