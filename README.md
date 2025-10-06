@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!  
 
 ## 🔭 About Me
-- Based in **Copenhague** 🇵🇹
+- Based in **Copenhague** DK
 - Bachelor in **Software and App Development**
   
 ## 💡 Skills & Tools
